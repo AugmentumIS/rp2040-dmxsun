@@ -1,6 +1,7 @@
 # GitHub action to automate the export of schematics, board production files
 # from the KiCad files
 # https://github.com/marketplace/actions/kicad-exports
+# Run
 
 name: kicad-exports
 
